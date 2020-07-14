@@ -1,1 +1,5 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=271998&assignment_repo_type=GroupAssignmentRepo)
+This project demonstrates our (Anthony Messana, Michael Giordano and Leah Kazenmayer's) Hotel Resource Management System for CSC 315-01. It includes all of our brainstorming, planning, diagrams and source code for the creation of our database system.
+In the documents folder, it includes submissions like our EER diagram, Relational Schema, BCNF diagram, and so forth.
+In the parent folder, it includes our zip file which includes our actual source code for the MGK system.
+All of the steps taken for the project can be viewed in the wiki
+https://github.com/CSC315Sm2020/project-mgk/wiki
